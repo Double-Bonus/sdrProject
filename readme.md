@@ -1,4 +1,4 @@
-#first clone and install codec2 from github
+# First clone and install codec2 from github
 
 
 # ets cmds:
